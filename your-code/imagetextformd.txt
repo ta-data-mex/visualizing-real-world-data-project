@@ -1,0 +1,14 @@
+3D plot of the detector
+![3D plot of the detector](./pictures/image1.png)
+3D plot of the transformed detector
+![3D plot of the transformed detector](./pictures/image2.png)
+3D plot of the transformed detector
+![3D plot of the transformed detector](./pictures/image3.png)
+3D visualization of the initial position
+![3D visualization of the initial position](./pictures/image4.png)
+3D visualization of the initial momentum
+![3D visualization of the initial momentum](./pictures/image5.png)
+3D visualiaztion of the position of collisions
+![3D visualiaztion of the position of collisions](./pictures/image6.png)
+3D visualiaztion of the momentum of collisions
+![3D visualiaztion of the momentum of collisions](./pictures/image7.png)
