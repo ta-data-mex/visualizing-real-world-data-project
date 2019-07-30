@@ -1,0 +1,551 @@
+index,#,Name,Posición,Nac.,Edad,Club,Valor más alto de carrera,Última revisión,Valor de mercado,Diferencial valor de Mercado
+0,1,Maximiliano Meza,Medio centro ofensivo,Argentina,26,CF Monterrey,14000000.0,08/02/2019,14000000.0,1.0
+1,2,Rodolfo Pizarro,Medio centro ofensivo,México,25,CF Monterrey,10000000.0,08/02/2019,10000000.0,1.0
+2,3,Carlos Salcedo,Defensa central,México,25,Tigres UANL,10000000.0,08/02/2019,10000000.0,1.0
+3,4,Guido Rodríguez,Pivote,Argentina,25,CF América,10000000.0,08/02/2019,10000000.0,1.0
+4,5,Vincent Janssen,Delantero centro,Países Bajos,25,CF Monterrey,14000000.0,13/06/2019,8000000.0,0.5714285714285714
+5,6,Guido Pizarro,Pivote,Argentina,29,Tigres UANL,15000000.0,08/02/2019,7500000.0,0.5
+6,7,Orbelín Pineda,Mediocentro,México,23,CD Cruz Azul,7500000.0,08/02/2019,7500000.0,1.0
+7,8,Víctor Guzmán,Medio centro ofensivo,México,24,CF Pachuca,7500000.0,08/02/2019,7500000.0,1.0
+8,9,Mateus Uribe,Mediocentro,Colombia,28,CF América,7500000.0,08/02/2019,7500000.0,1.0
+9,10,Jonathan González,Pivote,México,20,CF Monterrey,6500000.0,08/02/2019,6500000.0,1.0
+10,11,Guillermo Fernández,Medio centro ofensivo,Argentina,27,CD Cruz Azul,6000000.0,18/12/2018,6000000.0,1.0
+11,12,Nicolás Castillo,Delantero centro,Chile,26,CF América,6000000.0,11/01/2019,6000000.0,1.0
+12,13,Rogelio Funes Mori,Mori Delantero centro,Argentina,28,CF Monterrey,6000000.0,08/02/2019,6000000.0,1.0
+13,14,Roberto Alvarado,Medio centro ofensivo,México,20,CD Cruz Azul,5000000.0,08/02/2019,5000000.0,1.0
+14,15,Víctor Dávila,Delantero centro,Chile,21,CF Pachuca,5000000.0,08/02/2019,5000000.0,1.0
+15,16,Roger Martínez,Delantero centro,Colombia,25,CF América,5000000.0,08/02/2019,5000000.0,1.0
+16,17,Jesús Gallardo,Extremo izquierdo,México,24,CF Monterrey,5000000.0,08/02/2019,5000000.0,1.0
+17,18,César Montes,Defensa central,México,22,CF Monterrey,5000000.0,08/02/2019,5000000.0,1.0
+18,19,Javier Aquino,Extremo izquierdo,México,29,Tigres UANL,5000000.0,08/02/2019,5000000.0,1.0
+19,20,Julio Furch,Delantero centro,Argentina,29,Santos Laguna,5000000.0,08/02/2019,5000000.0,1.0
+20,21,Bruno Valdez,Defensa central,Paraguay,26,CF América,5000000.0,08/02/2019,5000000.0,1.0
+21,22,Rafael Carioca,Pivote,Brasil,30,Tigres UANL,6000000.0,08/02/2019,4500000.0,0.75
+22,23,Agustín Marchesín,Portero,Argentina,31,CF América,4500000.0,08/02/2019,4500000.0,1.0
+23,24,Eduardo Vargas,Delantero centro,Chile,29,Tigres UANL,11000000.0,08/02/2019,4500000.0,0.4090909090909091
+24,25,Enner Valencia,Delantero centro,Ecuador,29,Tigres UANL,11000000.0,08/02/2019,4500000.0,0.4090909090909091
+0,1,Maximiliano Meza,Medio centro ofensivo,Argentina,26,CF Monterrey,14000000.0,08/02/2019,14000000.0,1.0
+1,2,Rodolfo Pizarro,Medio centro ofensivo,México,25,CF Monterrey,10000000.0,08/02/2019,10000000.0,1.0
+2,3,Carlos Salcedo,Defensa central,México,25,Tigres UANL,10000000.0,08/02/2019,10000000.0,1.0
+3,4,Guido Rodríguez,Pivote,Argentina,25,CF América,10000000.0,08/02/2019,10000000.0,1.0
+4,5,Vincent Janssen,Delantero centro,Países Bajos,25,CF Monterrey,14000000.0,13/06/2019,8000000.0,0.5714285714285714
+5,6,Guido Pizarro,Pivote,Argentina,29,Tigres UANL,15000000.0,08/02/2019,7500000.0,0.5
+6,7,Orbelín Pineda,Mediocentro,México,23,CD Cruz Azul,7500000.0,08/02/2019,7500000.0,1.0
+7,8,Víctor Guzmán,Medio centro ofensivo,México,24,CF Pachuca,7500000.0,08/02/2019,7500000.0,1.0
+8,9,Mateus Uribe,Mediocentro,Colombia,28,CF América,7500000.0,08/02/2019,7500000.0,1.0
+9,10,Jonathan González,Pivote,México,20,CF Monterrey,6500000.0,08/02/2019,6500000.0,1.0
+10,11,Guillermo Fernández,Medio centro ofensivo,Argentina,27,CD Cruz Azul,6000000.0,18/12/2018,6000000.0,1.0
+11,12,Nicolás Castillo,Delantero centro,Chile,26,CF América,6000000.0,11/01/2019,6000000.0,1.0
+12,13,Rogelio Funes Mori,Mori Delantero centro,Argentina,28,CF Monterrey,6000000.0,08/02/2019,6000000.0,1.0
+13,14,Roberto Alvarado,Medio centro ofensivo,México,20,CD Cruz Azul,5000000.0,08/02/2019,5000000.0,1.0
+14,15,Víctor Dávila,Delantero centro,Chile,21,CF Pachuca,5000000.0,08/02/2019,5000000.0,1.0
+15,16,Roger Martínez,Delantero centro,Colombia,25,CF América,5000000.0,08/02/2019,5000000.0,1.0
+16,17,Jesús Gallardo,Extremo izquierdo,México,24,CF Monterrey,5000000.0,08/02/2019,5000000.0,1.0
+17,18,César Montes,Defensa central,México,22,CF Monterrey,5000000.0,08/02/2019,5000000.0,1.0
+18,19,Javier Aquino,Extremo izquierdo,México,29,Tigres UANL,5000000.0,08/02/2019,5000000.0,1.0
+19,20,Julio Furch,Delantero centro,Argentina,29,Santos Laguna,5000000.0,08/02/2019,5000000.0,1.0
+20,21,Bruno Valdez,Defensa central,Paraguay,26,CF América,5000000.0,08/02/2019,5000000.0,1.0
+21,22,Rafael Carioca,Pivote,Brasil,30,Tigres UANL,6000000.0,08/02/2019,4500000.0,0.75
+22,23,Agustín Marchesín,Portero,Argentina,31,CF América,4500000.0,08/02/2019,4500000.0,1.0
+23,24,Eduardo Vargas,Delantero centro,Chile,29,Tigres UANL,11000000.0,08/02/2019,4500000.0,0.4090909090909091
+24,25,Enner Valencia,Delantero centro,Ecuador,29,Tigres UANL,11000000.0,08/02/2019,4500000.0,0.4090909090909091
+0,26,Diego Valdés,Medio centro ofensivo,Chile,25,Santos Laguna,4500000.0,08/02/2019,4500000.0,1.0
+1,27,Nicolás Benedetti,Medio centro ofensivo,Colombia,22,CF América,4000000.0,08/02/2019,4000000.0,1.0
+2,28,Emanuel Gigliotti,Delantero centro,Argentina,32,Deportivo Toluca,4200000.0,08/02/2019,4000000.0,0.9523809523809523
+3,29,Alexis Vega,Delantero centro,México,21,Deportivo Guadalajara,4000000.0,08/02/2019,4000000.0,1.0
+4,30,Marcel Ruiz,Medio centro ofensivo,México,18,Querétaro FC,4000000.0,08/02/2019,4000000.0,1.0
+5,31,Alan Pulido,Delantero centro,México,28,Deportivo Guadalajara,4000000.0,08/02/2019,4000000.0,1.0
+6,32,Lucas Zelarayán,Medio centro ofensivo,Argentina,27,Tigres UANL,6000000.0,08/02/2019,4000000.0,0.6666666666666666
+7,33,Javier Correa,Delantero centro,Argentina,26,Atlas Guadalajara,4000000.0,08/02/2019,4000000.0,1.0
+8,34,Carlos González,Delantero centro,Paraguay,26,UNAM Pumas,4000000.0,08/02/2019,4000000.0,1.0
+9,35,Julián Quiñones,Extremo derecho,Colombia,22,Tigres UANL,4000000.0,08/02/2019,4000000.0,1.0
+10,36,Isaac Brizuela,Extremo derecho,México,28,Deportivo Guadalajara,3500000.0,08/02/2019,3500000.0,1.0
+11,37,Luis Quiñones,Extremo izquierdo,Colombia,28,Tigres UANL,3500000.0,08/02/2019,3500000.0,1.0
+12,38,Brian Lozano,Extremo izquierdo,Uruguay,25,Santos Laguna,3500000.0,08/02/2019,3500000.0,1.0
+13,39,Elías Hernández,Extremo derecho,México,31,CD Cruz Azul,3500000.0,08/02/2019,3500000.0,1.0
+14,40,Dorlan Pabón,Extremo derecho,Colombia,31,CF Monterrey,8000000.0,08/02/2019,3500000.0,0.4375
+15,41,André-Pierre Gignac,Delantero centro,Francia,33,Tigres UANL,15000000.0,08/02/2019,3500000.0,0.23333333333333334
+16,42,Andrés Ibargüen,Extremo izquierdo,Colombia,27,CF América,4000000.0,08/02/2019,3500000.0,0.875
+17,43,Jonathan Rodríguez,Delantero centro,Uruguay,26,CD Cruz Azul,3500000.0,08/02/2019,3500000.0,1.0
+18,44,Jorge Hernández,Pivote,México,30,CF Pachuca,3500000.0,08/02/2019,3500000.0,1.0
+19,45,Ricardo Centurión,Extremo izquierdo,Argentina,26,Atlético de San Luis,5000000.0,18/12/2018,3500000.0,0.7
+20,46,Stefan Medina,Lateral derecho,Colombia,27,CF Monterrey,3500000.0,08/02/2019,3500000.0,1.0
+21,47,Renato Ibarra,Extremo derecho,Ecuador,28,CF América,3500000.0,08/02/2019,3500000.0,1.0
+22,48,Brayan Garnica,Extremo derecho,México,23,Santos Laguna,3500000.0,08/02/2019,3500000.0,1.0
+23,49,Juan Escobar,Defensa central,Paraguay,24,CD Cruz Azul,3500000.0,14/06/2019,3500000.0,1.0
+24,50,Jesús Dueñas,Pivote,México,30,Tigres UANL,4000000.0,08/02/2019,3500000.0,0.875
+0,51,Avilés Hurtado,Extremo izquierdo,Colombia,32,CF Monterrey,4000000.0,08/02/2019,3000000.0,0.75
+1,52,Hugo Nervo,Defensa central,Argentina,28,Atlas Guadalajara,4200000.0,08/02/2019,3000000.0,0.7142857142857143
+2,53,Miguel Layún,Lateral derecho,México,31,CF Monterrey,10000000.0,08/02/2019,3000000.0,0.3
+3,54,Milton Caraglio,Delantero centro,Argentina,30,CD Cruz Azul,3000000.0,08/02/2019,3000000.0,1.0
+4,55,Rafael Baca,Pivote,México,29,CD Cruz Azul,3000000.0,08/02/2019,3000000.0,1.0
+5,56,Jürgen Damm,Extremo derecho,México,26,Tigres UANL,4000000.0,08/02/2019,3000000.0,0.75
+6,57,Jesús Angulo,Lateral izquierdo,México,21,Atlas Guadalajara,3000000.0,08/02/2019,3000000.0,1.0
+7,58,Dória,central,Brasil,24,Santos Laguna,8000000.0,08/02/2019,3000000.0,0.375
+8,59,Lucas Cavallini,Delantero centro,Canadá,26,Puebla FC,3000000.0,08/02/2019,3000000.0,1.0
+9,60,Franco Jara,Delantero centro,Argentina,31,CF Pachuca,5500000.0,08/02/2019,3000000.0,0.5454545454545454
+10,61,Camilo Sanvezzo,Delantero centro,Brasil,31,Club Tijuana,3000000.0,08/02/2019,3000000.0,1.0
+11,62,José Abella,Lateral derecho,México,25,Santos Laguna,3000000.0,08/02/2019,3000000.0,1.0
+12,63,Celso Ortiz,Pivote,Paraguay,30,CF Monterrey,3000000.0,08/02/2019,3000000.0,1.0
+13,64,Stephen Eustáquio,Pivote,Canadá,22,CD Cruz Azul,3000000.0,11/01/2019,3000000.0,1.0
+14,65,Érick Aguirre,Extremo izquierdo,México,22,CF Pachuca,3000000.0,08/02/2019,3000000.0,1.0
+15,66,Felipe Mora,Delantero centro,Chile,25,UNAM Pumas,3000000.0,08/02/2019,3000000.0,1.0
+16,67,Yoshimar Yotún,Mediocentro,Perú,29,CD Cruz Azul,3000000.0,08/02/2019,3000000.0,1.0
+17,68,Edwin Cardona,Medio centro ofensivo,Colombia,26,CF Pachuca,6000000.0,08/02/2019,3000000.0,0.5
+18,69,Martín Rodríguez,Extremo izquierdo,Chile,24,UNAM Pumas,3000000.0,08/02/2019,3000000.0,1.0
+19,70,Edgar Méndez,Extremo derecho,España,29,CD Cruz Azul,3000000.0,08/02/2019,3000000.0,1.0
+20,71,Leonardo Ramos,Delantero centro,Argentina,29,Club León FC,3000000.0,08/02/2019,3000000.0,1.0
+21,72,Jonathan Urretaviscaya,Extremo derecho,Uruguay,29,CF Monterrey,3500000.0,08/02/2019,2800000.0,0.8
+22,73,Luis Rodríguez,Lateral derecho,México,28,Tigres UANL,2800000.0,08/02/2019,2800000.0,1.0
+23,74,José Juan Vázquez,Vázquez Pivote,México,31,Santos Laguna,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+24,75,Leonardo Ulloa,Delantero centro,Argentina,33,CF Pachuca,8500000.0,08/02/2019,2500000.0,0.29411764705882354
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
+0,76,Alejandro Chumacero,Mediocentro,Bolivia,28,Puebla FC,2500000.0,08/02/2019,2500000.0,1.0
+1,77,Ayrton Preciado,Extremo izquierdo,Ecuador,25,Santos Laguna,2500000.0,08/02/2019,2500000.0,1.0
+2,78,Nahuel Guzmán,Portero,Argentina,33,Tigres UANL,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+3,79,Luis Reyes,Lateral izquierdo,México,28,Atlético de San Luis,2500000.0,08/02/2019,2500000.0,1.0
+4,80,Juan Iturbe,Extremo derecho,Paraguay,26,UNAM Pumas,20000000.0,08/02/2019,2500000.0,0.125
+5,81,Emanuel Aguilera,Defensa central,Argentina,30,CF América,2500000.0,08/02/2019,2500000.0,1.0
+6,82,José Macías,Delantero centro,México,19,Club León FC,2500000.0,23/05/2019,2500000.0,1.0
+7,83,Raúl Gudiño,Portero,México,23,Deportivo Guadalajara,2500000.0,08/02/2019,2500000.0,1.0
+8,84,Víctor Malcorra,Interior izquierdo,Argentina,32,UNAM Pumas,3000000.0,08/02/2019,2500000.0,0.8333333333333334
+9,85,Javier Salas,Pivote,México,25,CD Cruz Azul,2500000.0,08/02/2019,2500000.0,1.0
+10,86,Óscar Murillo,Defensa central,Colombia,31,CF Pachuca,2500000.0,08/02/2019,2500000.0,1.0
+11,87,Joel Campbell,Extremo derecho,Costa Rica,27,Club León FC,8000000.0,08/02/2019,2500000.0,0.3125
+12,88,Antonio Ríos,Pivote,México,30,Deportivo Toluca,2500000.0,08/02/2019,2500000.0,1.0
+13,89,Ángel Zaldívar,Delantero centro,México,25,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+14,90,Carlos Rodríguez,Mediocentro,México,22,CF Monterrey,2500000.0,08/02/2019,2500000.0,1.0
+15,91,Miler Bolaños,Medio centro ofensivo,Ecuador,29,Club Tijuana,4000000.0,08/02/2019,2500000.0,0.625
+16,92,Leonel Miranda,Pivote,Argentina,25,Club Tijuana,2500000.0,18/12/2018,2500000.0,1.0
+17,93,Rodolfo Cota,Portero,México,32,Club León FC,2800000.0,08/02/2019,2300000.0,0.8214285714285714
+18,94,Ángelo Sagal,Delantero centro,Chile,26,FC Juárez,2300000.0,08/02/2019,2300000.0,1.0
+19,95,Jonathan Orozco,Portero,México,33,Santos Laguna,3000000.0,08/02/2019,2300000.0,0.7666666666666667
+20,96,Jaime Gómez,Pivote,México,26,Querétaro FC,2300000.0,08/02/2019,2300000.0,1.0
+21,97,Ismael Sosa,Extremo derecho,Argentina,32,Club León FC,7500000.0,08/02/2019,2300000.0,0.30666666666666664
+22,98,José van Rankin,Rankin Lateral derecho,México,26,Deportivo Guadalajara,2300000.0,08/02/2019,2300000.0,1.0
+23,99,Felipe Pardo,Extremo derecho,Colombia,28,Deportivo Toluca,7500000.0,08/02/2019,2000000.0,0.26666666666666666
+24,100,Giovani dos Santos,Santos Mediapunta,México,30,CF América,12000000.0,15/12/2018,2000000.0,0.16666666666666666
