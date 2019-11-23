@@ -1,0 +1,116 @@
+,VehicleNo,TripId,RouteNo,Direction,Destination,Pattern,Latitude,Longitude,RecordedTime,RouteMap
+0,14008,10787699,159,EAST,COQ CTRL STN,EB1A,49.226917,-122.805933,01:46:32 am,{'Href': 'https://nb.translink.ca/geodata/159.kmz'}
+1,14009,10791380,188,EAST,PT COQ STN,EB2,49.276267,-122.797633,01:47:16 am,{'Href': 'https://nb.translink.ca/geodata/188.kmz'}
+2,14013,10786442,151,WEST,BURQUITLAM STN,WB1,49.2636,-122.875233,01:47:47 am,{'Href': 'https://nb.translink.ca/geodata/151.kmz'}
+3,14014,10819516,N9,WEST,DOWNTOWN NIGHTBUS,WB1,49.275617,-122.798717,01:46:49 am,{'Href': 'https://nb.translink.ca/geodata/N9.kmz'}
+4,14026,10791392,188,WEST,COQ CTRL STN,WB2,49.260917,-122.77385,01:47:39 am,{'Href': 'https://nb.translink.ca/geodata/188.kmz'}
+5,14032,10787941,160,WEST,KOOTENAY LOOP,WB1,49.289183,-122.94235,01:47:51 am,{'Href': 'https://nb.translink.ca/geodata/160.kmz'}
+6,14037,10819517,N9,WEST,DOWNTOWN NIGHTBUS,WB1,49.27655,-122.86885,01:47:12 am,{'Href': 'https://nb.translink.ca/geodata/N9.kmz'}
+7,14039,10787868,160,EAST,PT COQ STN,EB1,49.2756,-122.79835,01:47:11 am,{'Href': 'https://nb.translink.ca/geodata/160.kmz'}
+8,14045,10786399,151,EAST,COQ CTRL STN,EB1,49.270817,-122.802483,01:47:16 am,{'Href': 'https://nb.translink.ca/geodata/151.kmz'}
+9,15003,10819295,N19,WEST,DOWNTOWN NIGHTBUS,W1,49.221567,-122.930867,01:47:31 am,{'Href': 'https://nb.translink.ca/geodata/N19.kmz'}
+10,16013,10782794,128,EAST,BRAID STN,EB1,49.22175,-122.9132,01:47:41 am,{'Href': 'https://nb.translink.ca/geodata/128.kmz'}
+11,16106,10807015,408,EAST,IRONWOOD,EB1HW,49.166433,-123.12475,01:47:14 am,{'Href': 'https://nb.translink.ca/geodata/408.kmz'}
+12,16112,10806761,407,SOUTH,GILBERT,SB1W,49.19205,-123.100383,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/407.kmz'}
+13,16501,10790164,183,WEST,MOODY CTR STN,WB1,49.29945,-122.78825,01:47:37 am,{'Href': 'https://nb.translink.ca/geodata/183.kmz'}
+14,16514,10790109,183,EAST,COQ CTRL STN,EB1,49.2777,-122.845567,01:40:14 am,{'Href': 'https://nb.translink.ca/geodata/183.kmz'}
+15,16518,10780886,109,NORTH,LOUGHEED STN,NB1,49.200917,-122.91315,01:47:23 am,{'Href': 'https://nb.translink.ca/geodata/109.kmz'}
+16,16534,10788277,169,EAST,COQ CTRL STN,EB1,49.232683,-122.883283,01:46:36 am,{'Href': 'https://nb.translink.ca/geodata/169.kmz'}
+17,17514,10790110,183,EAST,COQ CTRL STN,EB1,49.297467,-122.812733,01:47:20 am,{'Href': 'https://nb.translink.ca/geodata/183.kmz'}
+18,18026,10819294,N19,WEST,DOWNTOWN NIGHTBUS,W1,49.188833,-122.849317,01:42:26 am,{'Href': 'https://nb.translink.ca/geodata/N19.kmz'}
+19,18027,10819296,N19,WEST,DOWNTOWN NIGHTBUS,W1,49.279267,-123.099733,01:47:49 am,{'Href': 'https://nb.translink.ca/geodata/N19.kmz'}
+20,18047,10812317,701,EAST,HANEY PLACE,EB3D1,49.22495,-122.689583,01:47:24 am,{'Href': 'https://nb.translink.ca/geodata/701.kmz'}
+21,18049,10812367,701,WEST,COQ CTRL STN,WB1MRB,49.2754,-122.798483,01:47:23 am,{'Href': 'https://nb.translink.ca/geodata/701.kmz'}
+22,18057,10776191,095,EAST,SFU B-LINE,E1,49.2771,-122.927567,01:46:29 am,{'Href': 'https://nb.translink.ca/geodata/095.kmz'}
+23,18104,10801365,335,WEST,SURREY CTRL STN,WB2GX,49.142983,-122.852983,01:45:48 am,{'Href': 'https://nb.translink.ca/geodata/335.kmz'}
+24,18130,10799895,321,SOUTH,WHITE ROCK SOUTH,SB2,49.131983,-122.8442,01:33:24 am,{'Href': 'https://nb.translink.ca/geodata/321.kmz'}
+25,18138,10798937,319,SOUTH,NEWTON EXCH,SB1,49.181267,-122.890283,01:47:48 am,{'Href': 'https://nb.translink.ca/geodata/319.kmz'}
+26,18151,10798238,312,SOUTH,SCOTTSDALE,SB1,49.15895,-122.912367,01:46:56 am,{'Href': 'https://nb.translink.ca/geodata/312.kmz'}
+27,18157,10799897,321,SOUTH,WHITE ROCK CTR,S9DB7,49.182967,-122.845567,01:46:59 am,{'Href': 'https://nb.translink.ca/geodata/321.kmz'}
+28,18163,10800425,323,SOUTH,NEWTON EXCH,SB1,49.188817,-122.848783,01:34:08 am,{'Href': 'https://nb.translink.ca/geodata/323.kmz'}
+29,18165,10799354,320,EAST,LANGLEY CTR,EB1,49.111,-122.6736,01:47:50 am,{'Href': 'https://nb.translink.ca/geodata/320.kmz'}
+30,18175,10827224,502,WEST,SURREY CTRL STN,WB7,49.1167,-122.685933,01:46:25 am,{'Href': 'https://nb.translink.ca/geodata/502.kmz'}
+31,18176,10827063,502,EAST,LANGLEY CTR,EB7,49.178367,-122.83325,01:46:56 am,{'Href': 'https://nb.translink.ca/geodata/502.kmz'}
+32,18177,10798715,319,NORTH,SCOTT RD STN,NB1,49.17375,-122.890133,01:47:16 am,{'Href': 'https://nb.translink.ca/geodata/319.kmz'}
+33,18205,10782432,123,WEST,BRENTWOOD STN,WB1,49.266117,-123.0031,01:46:56 am,{'Href': 'https://nb.translink.ca/geodata/123.kmz'}
+34,18206,10780453,106,WEST,EDMONDS STN,WB106,0.0,0.0,01:44:56 am,{'Href': 'https://nb.translink.ca/geodata/106.kmz'}
+35,18309,10775065,050,SOUTH,S. FALSE CREEK VIA GRANVILLE ISL.,SB2WN,49.281483,-123.121667,01:47:16 am,{'Href': 'https://nb.translink.ca/geodata/050.kmz'}
+36,18310,10819333,N20,NORTH,DOWNTOWN NIGHTBUS,NB2,49.273383,-123.069567,01:47:52 am,{'Href': 'https://nb.translink.ca/geodata/N20.kmz'}
+37,18312,10819332,N20,NORTH,DOWNTOWN NIGHTBUS,NB2,49.212833,-123.06605,01:47:40 am,{'Href': 'https://nb.translink.ca/geodata/N20.kmz'}
+38,18325,10766077,014,EAST,HASTINGS,EBHELM,49.281317,-123.075283,01:47:24 am,{'Href': 'https://nb.translink.ca/geodata/014.kmz'}
+39,18342,10774928,050,NORTH,WATERFRONT STN,NB1FR,49.268817,-123.1408,01:47:51 am,{'Href': 'https://nb.translink.ca/geodata/050.kmz'}
+40,18346,10819370,N22,NORTH,DOWNTOWN NIGHTBUS,NB1,49.2345,-123.1858,01:46:13 am,{'Href': 'https://nb.translink.ca/geodata/N22.kmz'}
+41,18359,10819480,N8,WEST,DOWNTOWN NIGHTBUS,WB2,49.25835,-123.0892,01:47:15 am,{'Href': 'https://nb.translink.ca/geodata/N8.kmz'}
+42,18367,10773325,041,WEST,TO DUNBAR,WB22,0.0,0.0,01:47:49 am,{'Href': 'https://nb.translink.ca/geodata/041.kmz'}
+43,18369,10760139,002,WEST,MACDONALD,WB1,49.272567,-123.1558,01:47:52 am,{'Href': 'https://nb.translink.ca/geodata/002.kmz'}
+44,18397,10773117,041,EAST,41ST & OAK,EB22,49.234283,-123.13805,01:47:21 am,{'Href': 'https://nb.translink.ca/geodata/041.kmz'}
+45,18462,10802804,351,SOUTH,CRESCENT BEACH,SB3,49.194917,-123.126917,01:42:05 am,{'Href': 'https://nb.translink.ca/geodata/351.kmz'}
+46,18470,10810912,601,SOUTH,SOUTH DELTA,SB3,49.1884,-123.113667,01:47:21 am,{'Href': 'https://nb.translink.ca/geodata/601.kmz'}
+47,19002,10819263,N17,EAST,DOWNTOWN NIGHTBUS,E1,49.263533,-123.190483,01:47:45 am,{'Href': 'https://nb.translink.ca/geodata/N17.kmz'}
+48,19007,10777926,099,WEST,UBC B-LINE,W1,49.263467,-123.12825,01:47:34 am,{'Href': 'https://nb.translink.ca/geodata/099.kmz'}
+49,19009,10819434,N35,WEST,DOWNTOWN NIGHTBUS,W1,49.2812,-123.0438,01:47:24 am,{'Href': 'https://nb.translink.ca/geodata/N35.kmz'}
+50,19019,10777923,099,WEST,UBC B-LINE,W1,49.26335,-123.068883,01:33:21 am,{'Href': 'https://nb.translink.ca/geodata/099.kmz'}
+51,19022,10819292,N19,EAST,SRY CTRL STN NIGHTBUS,E1,49.283817,-123.113417,01:47:51 am,{'Href': 'https://nb.translink.ca/geodata/N19.kmz'}
+52,19025,10777922,099,WEST,UBC B-LINE,W1,49.263867,-123.210017,01:47:46 am,{'Href': 'https://nb.translink.ca/geodata/099.kmz'}
+53,19107,10799360,320,EAST,FLEETWOOD,EB3,49.191517,-122.822217,01:47:20 am,{'Href': 'https://nb.translink.ca/geodata/320.kmz'}
+54,19133,10781263,112,EAST,NEW WEST STN,EB1,49.201567,-122.92275,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/112.kmz'}
+55,2115,10822575,009,EAST,BOUNDARY,EB24,49.262317,-123.140183,01:46:14 am,{'Href': 'https://nb.translink.ca/geodata/009.kmz'}
+56,2118,10773282,041,WEST,41ST & OAK,WB5O,49.233217,-123.107283,01:47:47 am,{'Href': 'https://nb.translink.ca/geodata/041.kmz'}
+57,2127,10821106,006,EAST,DOWNTOWN,EB1,49.276567,-123.117383,01:47:04 am,{'Href': 'https://nb.translink.ca/geodata/006.kmz'}
+58,2133,10767160,016,EAST,TO KINGSWAY,EB7F,49.2443,-123.044617,01:47:32 am,{'Href': 'https://nb.translink.ca/geodata/016.kmz'}
+59,2146,10768181,019,EAST,METROTOWN STN,EB20F,49.241533,-123.057383,01:47:01 am,{'Href': 'https://nb.translink.ca/geodata/019.kmz'}
+60,2149,10766139,014,WEST,U B C,WB2F,49.277733,-123.1273,01:47:49 am,{'Href': 'https://nb.translink.ca/geodata/014.kmz'}
+61,2154,10766188,014,WEST,U B C,WB2F,49.283833,-123.11805,01:47:49 am,{'Href': 'https://nb.translink.ca/geodata/014.kmz'}
+62,2162,10821146,006,WEST,DAVIE,WB1,49.28085,-123.111017,01:44:19 am,{'Href': 'https://nb.translink.ca/geodata/006.kmz'}
+63,2180,10820677,005,EAST,DOWNTOWN,EB2Y,49.2892,-123.13195,01:47:13 am,{'Href': 'https://nb.translink.ca/geodata/005.kmz'}
+64,2185,10822716,009,WEST,TO GRANVILLE,WB5CG4,49.262933,-123.101617,01:47:30 am,{'Href': 'https://nb.translink.ca/geodata/009.kmz'}
+65,2188,10767724,017,EAST,OAK,EB1F,49.260117,-123.126717,01:47:50 am,{'Href': 'https://nb.translink.ca/geodata/017.kmz'}
+66,2226,10822530,009,EAST,BOUNDARY,EB24,49.265433,-123.02495,01:46:32 am,{'Href': 'https://nb.translink.ca/geodata/009.kmz'}
+67,2242,10763504,007,WEST,DOWNTOWN,WB5MN,49.280883,-123.099683,01:47:10 am,{'Href': 'https://nb.translink.ca/geodata/007.kmz'}
+68,2265,10767294,016,WEST,ARBUTUS,WB3F,49.2649,-123.1385,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/016.kmz'}
+69,2269,10768220,019,EAST,METROTOWN STN,EB20F,49.280467,-123.103483,01:46:40 am,{'Href': 'https://nb.translink.ca/geodata/019.kmz'}
+70,2520,10760750,003,NORTH,DOWNTOWN,NB1STN,49.243717,-123.101333,01:47:46 am,{'Href': 'https://nb.translink.ca/geodata/003.kmz'}
+71,2530,10760670,003,NORTH,DOWNTOWN,NB1STN,49.241717,-123.101417,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/003.kmz'}
+72,2534,10763880,008,EAST,FRASER,EB2GN,49.26235,-123.092317,01:47:43 am,{'Href': 'https://nb.translink.ca/geodata/008.kmz'}
+73,2541,10769415,020,SOUTH,VICTORIA,SB24F,49.281,-123.103117,01:47:00 am,{'Href': 'https://nb.translink.ca/geodata/020.kmz'}
+74,2548,10760861,003,SOUTH,MAIN-MARINE DR STN,SB2,49.201233,-123.13825,01:41:26 am,{'Href': 'https://nb.translink.ca/geodata/003.kmz'}
+75,2553,10765641,010,SOUTH,TO MARPOLE,SB4F,49.27065,-123.136117,01:47:40 am,{'Href': 'https://nb.translink.ca/geodata/010.kmz'}
+76,2555,10769227,020,NORTH,DOWNTOWN,NB1,49.28135,-123.099717,01:47:14 am,{'Href': 'https://nb.translink.ca/geodata/020.kmz'}
+77,2557,10763928,008,WEST,DOWNTOWN,WB1,49.263333,-123.100033,01:47:21 am,{'Href': 'https://nb.translink.ca/geodata/008.kmz'}
+78,2570,10760860,003,SOUTH,MAIN-MARINE DR STN,SB2,49.242783,-123.101383,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/003.kmz'}
+79,3310,10819507,N9,EAST,COQ STN NIGHTBUS,EB2,49.247533,-122.8955,01:45:12 am,{'Href': 'https://nb.translink.ca/geodata/N9.kmz'}
+80,3349,10819518,N9,WEST,DOWNTOWN NIGHTBUS,WB1,49.267783,-123.138333,01:46:03 am,{'Href': 'https://nb.translink.ca/geodata/N9.kmz'}
+81,3353,10787867,160,EAST,PT COQ STN,EB1,49.280983,-122.99605,01:47:45 am,{'Href': 'https://nb.translink.ca/geodata/160.kmz'}
+82,7448,10798792,319,SOUTH,NEWTON EXCH,SB1,49.1338,-122.86705,01:47:04 am,{'Href': 'https://nb.translink.ca/geodata/319.kmz'}
+83,7458,10827225,502,WEST,SURREY CTRL STN,WB7,49.168733,-122.808017,01:46:55 am,{'Href': 'https://nb.translink.ca/geodata/502.kmz'}
+84,7482,10827143,502,EAST,LANGLEY CTR,EB7,49.118433,-122.690283,01:47:37 am,{'Href': 'https://nb.translink.ca/geodata/502.kmz'}
+85,8137,10777823,099,EAST,TO BOUNDARY B-LINE,E8FL2,49.266883,-123.241517,01:47:25 am,{'Href': 'https://nb.translink.ca/geodata/099.kmz'}
+86,8138,10819433,N35,WEST,DOWNTOWN NIGHTBUS,W1,49.2785,-122.912867,01:33:19 am,{'Href': 'https://nb.translink.ca/geodata/N35.kmz'}
+87,8155,10776190,095,EAST,SFU B-LINE,E1,49.28105,-123.084933,01:47:36 am,{'Href': 'https://nb.translink.ca/geodata/095.kmz'}
+88,9425,10780393,106,EAST,NEW WEST STN,EB106,49.220183,-122.929133,01:47:24 am,{'Href': 'https://nb.translink.ca/geodata/106.kmz'}
+89,9453,10781075,110,WEST,METROTOWN STN,WB1,49.2418,-122.982783,01:47:32 am,{'Href': 'https://nb.translink.ca/geodata/110.kmz'}
+90,9470,10781812,119,EAST,EDMONDS STN,EB1,49.21835,-122.952367,01:47:29 am,{'Href': 'https://nb.translink.ca/geodata/119.kmz'}
+91,9486,10869182,100,EAST,22ND ST STN,EB1,49.208783,-123.120283,01:47:41 am,{'Href': 'https://nb.translink.ca/geodata/100.kmz'}
+92,9502,10773160,041,EAST,JOYCE STN,EB21,49.2328,-123.054583,01:47:50 am,{'Href': 'https://nb.translink.ca/geodata/041.kmz'}
+93,9517,10782375,123,EAST,NEW WEST STN,EB1,49.211767,-122.924867,01:47:19 am,{'Href': 'https://nb.translink.ca/geodata/123.kmz'}
+94,9535,10819247,N15,NORTH,DOWNTOWN NIGHTBUS,NB1,49.209283,-123.1162,01:47:45 am,{'Href': 'https://nb.translink.ca/geodata/N15.kmz'}
+95,9541,10766205,014,WEST,U B C,WB3F,49.264833,-123.1385,01:46:53 am,{'Href': 'https://nb.translink.ca/geodata/014.kmz'}
+96,9545,10819211,N10,NORTH,DOWNTOWN VIA YVR NIGHTBUS,NB1BP,49.164683,-123.137367,01:46:40 am,{'Href': 'https://nb.translink.ca/geodata/N10.kmz'}
+97,9551,10805498,403,SOUTH,THREE ROAD,SB1,49.185683,-123.13565,01:47:47 am,{'Href': 'https://nb.translink.ca/geodata/403.kmz'}
+98,9552,10819209,N10,NORTH,DOWNTOWN VIA YVR NIGHTBUS,NB1BP,49.196117,-123.13745,01:46:44 am,{'Href': 'https://nb.translink.ca/geodata/N10.kmz'}
+99,9563,10802803,351,SOUTH,CRESCENT BEACH,SB3,49.0313,-122.85795,01:47:13 am,{'Href': 'https://nb.translink.ca/geodata/351.kmz'}
+100,9586,10806378,406,SOUTH,STEVESTON,SB1W,49.142783,-123.1698,01:47:21 am,{'Href': 'https://nb.translink.ca/geodata/406.kmz'}
+101,9612,10771723,026,WEST,29TH AVE STN,W1,49.215517,-123.037533,01:47:35 am,{'Href': 'https://nb.translink.ca/geodata/026.kmz'}
+102,9622,10819395,N24,NORTH,LYNN VALLEY NIGHTBUS,N1,49.335467,-123.04245,01:47:25 am,{'Href': 'https://nb.translink.ca/geodata/N24.kmz'}
+103,9644,10783290,130,NORTH,KOOTENAY LOOP,N2B,49.243433,-123.00325,01:47:43 am,{'Href': 'https://nb.translink.ca/geodata/130.kmz'}
+104,9652,10819394,N24,NORTH,LYNN VALLEY NIGHTBUS,N1,49.3239,-123.12155,01:47:50 am,{'Href': 'https://nb.translink.ca/geodata/N24.kmz'}
+105,9679,10805183,402,SOUTH,TWO ROAD,SB4,49.155617,-123.141183,01:47:42 am,{'Href': 'https://nb.translink.ca/geodata/402.kmz'}
+106,9691,10770080,022,WEST,DOWNTOWN,WB4,49.237483,-123.076883,01:47:34 am,{'Href': 'https://nb.translink.ca/geodata/022.kmz'}
+107,9699,10766003,014,EAST,TO GRANVILLE,EBUBO,49.265917,-123.24845,01:45:16 am,{'Href': 'https://nb.translink.ca/geodata/014.kmz'}
+108,9717,10794714,239,WEST,PARK ROYAL,W1DT2,49.323967,-123.1207,01:47:09 am,{'Href': 'https://nb.translink.ca/geodata/239.kmz'}
+109,9724,10771649,026,EAST,JOYCE STN,E1,49.229233,-123.0322,01:46:59 am,{'Href': 'https://nb.translink.ca/geodata/026.kmz'}
+110,9728,10791985,209,WEST,VANCOUVER,W2D,49.283067,-123.0771,01:47:45 am,{'Href': 'https://nb.translink.ca/geodata/209.kmz'}
+111,9737,10793391,228,NORTH,LYNN VALLEY,N1DT,49.313183,-123.057117,01:47:21 am,{'Href': 'https://nb.translink.ca/geodata/228.kmz'}
+112,9765,10792488,211,WEST,PHIBBS EXCH,W2F,49.3159,-122.959683,01:47:39 am,{'Href': 'https://nb.translink.ca/geodata/211.kmz'}
+113,9777,10791986,209,WEST,PHIBBS EXCH,W2B,49.337717,-123.038233,01:47:50 am,{'Href': 'https://nb.translink.ca/geodata/209.kmz'}
+114,9798,10819389,N24,NORTH,LYNN VALLEY NIGHTBUS,N1,49.282817,-123.111983,01:47:24 am,{'Href': 'https://nb.translink.ca/geodata/N24.kmz'}
