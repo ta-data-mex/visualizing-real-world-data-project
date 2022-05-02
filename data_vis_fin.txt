@@ -1,0 +1,11 @@
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Consumo_Alcaldia/Hoja1?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Consumo_Indice/Hoja2?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Consumo_Alcaldia_NSE/Hoja3?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Consumo_Alcaldia_NSE_Prom/Hoja4?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Consumo_total_se_alto/Hoja7?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Promedio_Tipo_Consumo/Hoja5?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Cosumo_prom_imd_des/Hoja9?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Cosumo_prom_imd_mixto/Hoja10?publish=yes
+https://public.tableau.com/app/profile/daniel.aguilar.morales/viz/Cosumo_prom_no_dom/Hoja11?publish=yes
+
+
